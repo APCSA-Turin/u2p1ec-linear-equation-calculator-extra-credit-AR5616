@@ -155,8 +155,4 @@ public class LinearCalculator{
         double yMidpoint = (y1 + y2)/2;
         return "The midpoint of this line is: " + "(" + xMidpoint + "," + yMidpoint + ")";
     }
-
 }
-
-
-
